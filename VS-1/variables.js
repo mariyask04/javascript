@@ -1,0 +1,10 @@
+let n=10;
+result = "Hello World";
+bool = true;
+console.log(n);
+console.log(result);
+console.log(bool);
+let name=prompt("Enter your name:");
+console.log(name);
+let con=confirm("Are you sure?");
+console.log(con);
